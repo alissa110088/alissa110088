@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cyber-header.svg" />
+  <img src="./assets/alissa-header.svg" />
 </p>
 
 ---
