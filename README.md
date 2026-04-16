@@ -1,16 +1,118 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/cyber-header.svg" />
+</p>
 
-<!--
-**alissa110088/alissa110088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ▓▒░ SYSTEM PROFILE ░▒▓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Gameplay Programmer  
+💻 Unity • C# • C++  
+📍 Montreal / Paris  
+
+---
+
+## ▓▒░ ABOUT MODULE ░▒▓
+
+Game Programming student focused on **interactive systems, gameplay feel, and emergent mechanics**.
+
+I design gameplay like systems engineering:
+simple rules → complex behavior → intentional chaos.
+
+---
+
+## ▓▒░ SKILL MATRIX ░▒▓
+
+- Unity (2D / 3D / VR)
+- C#
+- C++
+- Gameplay Systems Architecture
+- UI / UX Implementation
+- Git / Version Control
+- Godot (basic integration)
+
+---
+
+## ▓▒░ PROJECT ARCHIVE ░▒▓
+
+### ⚡ MIDNIGHT CARD // VR RHYTHM SYSTEM
+
+> “Music drives interaction.”
+
+- VR rhythm game built in Unity  
+- Team project (2 programmers)  
+- Music-synced gameplay systems  
+- Focus: timing, responsiveness, architecture  
+
+---
+
+### 👁️ HIDE & SEEK // MULTIPLAYER SYSTEM
+
+> “Information is gameplay.”
+
+- Solo multiplayer project  
+- Networked gameplay architecture  
+- Asymmetrical game design  
+- Full player + state management system  
+
+---
+
+### 🧦 SUPER SMASH SOCK // EXPERIMENTAL INPUT
+
+> “The controller becomes the mechanic.”
+
+- Custom physical controller integration  
+- Unity combat system  
+- Experimental input mapping  
+- Focus on feel + tactile interaction  
+
+---
+
+### 🐑 SOKOBAN // EMERGENT LOGIC ENGINE
+
+> “Simple rules. Unexpected outcomes.”
+
+- Sheep-based puzzle system  
+- Double movement mechanic after push  
+- Rotating tile system affecting direction  
+- System-driven level design  
+
+---
+
+## ▓▒░ EDUCATION ░▒▓
+
+- **RUBIKA** — Game Programming (2025–2029)  
+- **ISART DIGITAL** — Game Design & Programming (2024–2025)  
+- High School — Mathematics & Computer Science  
+
+---
+
+## ▓▒░ EXPERIENCE ░▒▓
+
+### YOUTH HELPING YOUTH (2022–2024)
+
+- Event system organization  
+- Team coordination  
+- Logistics handling  
+- Communication & collaboration  
+
+---
+
+## ▓▒░ ACTIVE PROCESS ░▒▓
+
+- Developing experimental gameplay prototypes  
+- Improving AI systems in Unity  
+- Exploring emergent interaction design  
+- Building system-driven game loops  
+
+---
+
+## ▓▒░ CONTACT ░▒▓
+
+🌐 Portfolio: https://delattrealissa.wixsite.com  
+
+---
+
+<p align="center">
+⚡ “I build systems that break — then I make them feel intentional.” ⚡
+</p>
