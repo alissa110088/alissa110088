@@ -6,7 +6,7 @@
 
 ## ▓▒░ SYSTEM PROFILE ░▒▓
 
-🎮 Gameplay Programmer  
+🎮 Gameplay Programmera
 💻 Unity • C# • C++  
 📍 Montreal / Paris  
 
