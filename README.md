@@ -29,7 +29,7 @@ simple rules → complex behavior → intentional chaos.
 - Gameplay Systems Architecture
 - UI / UX Implementation
 - Git / Version Control
-- Godot (basic integration)
+- Godot 
 
 ---
 
@@ -40,7 +40,7 @@ simple rules → complex behavior → intentional chaos.
 > “Music drives interaction.”
 
 - VR rhythm game built in Unity  
-- Team project (2 programmers)  
+- Team project 
 - Music-synced gameplay systems  
 - Focus: timing, responsiveness, architecture  
 
@@ -51,7 +51,8 @@ simple rules → complex behavior → intentional chaos.
 > “Information is gameplay.”
 
 - Solo multiplayer project  
-- Networked gameplay architecture  
+- Networked gameplay architecture
+- Unity Netcode
 - Asymmetrical game design  
 - Full player + state management system  
 
@@ -68,12 +69,10 @@ simple rules → complex behavior → intentional chaos.
 
 ---
 
-### 🐑 SOKOBAN // EMERGENT LOGIC ENGINE
+### 🐑 SOKOBAN 
 
-> “Simple rules. Unexpected outcomes.”
 
 - Sheep-based puzzle system  
-- Double movement mechanic after push  
 - Rotating tile system affecting direction  
 - System-driven level design  
 
@@ -109,10 +108,5 @@ simple rules → complex behavior → intentional chaos.
 
 ## ▓▒░ CONTACT ░▒▓
 
-🌐 Portfolio: https://delattrealissa.wixsite.com  
+🌐 Mail: delattre.alissa@gmail.com
 
----
-
-<p align="center">
-⚡ “I build systems that break — then I make them feel intentional.” ⚡
-</p>
